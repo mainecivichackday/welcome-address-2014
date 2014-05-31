@@ -10,25 +10,44 @@ Maine Civic Hack Day 2014
 .. figure:: /_static/MCHD_2014.png
    :class: full-image
 
-Service
+=======
+SERVICE
 =======
 
-Open Source 
+=========
+COMMUNITY
+=========
+
+===========
+OPEN SOURCE 
 ===========
 
-Local Challenges
-================
+.. rst-class:: local
+=====
+LOCAL 
+=====
 
-Child Hunger
-------------
+.. rst-class:: local
+============
+CHILD HUNGER
+============
 
-Volunteer Coordination
-----------------------
+.. rst-class:: local
+==============
+VOLUNTEER COORDINATION
+==============
 
-Section 8 Housing
------------------
+.. rst-class:: local
+===========
+SECTION 8 HOUSING
+===========
 
-Habitat for Humanity
---------------------
+.. rst-class:: local
+====
+CLEAN ELECTIONS
+====
 
-
+.. rst-class:: pitches
+====
+PITCHES
+====

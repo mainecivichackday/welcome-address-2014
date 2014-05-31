@@ -7,7 +7,29 @@
 
 h1
 {
-    font-size: 3em;
+  font-size: 3em;
+  color: #4BC4E6;
+  font-family: 'Audiowide';
+}
+
+h2
+{
+    color: #4BC4E6;
+}
+
+h3
+{
+    color: #4BC4E6;
+}
+
+.local h1
+{
+  color: #FF14FF;
+}
+
+.pitches h1
+{
+  color: #EAFF00;
 }
 
 .full-image
