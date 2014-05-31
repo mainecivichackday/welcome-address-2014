@@ -38,6 +38,25 @@ CHILD HUNGER
 
 .. rst-class:: local
 ===========
+ADOPT A GARDEN
+===========
+
+.. rst-class:: local
+===========
+NOISE MAPPING
+===========
+
+.. rst-class:: local
+===========
+NOISE MAPPING
+===========
+
+.. figure:: /_static/Noise.png
+   :class: full-image
+
+
+.. rst-class:: local
+===========
 SECTION 8 HOUSING
 ===========
 
