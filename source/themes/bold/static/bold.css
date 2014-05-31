@@ -1,6 +1,25 @@
 @import url(slides.css);
 
+.slides > article
+{
+  background-color: black;
+}
+
 h1
 {
     font-size: 3em;
+}
+
+.full-image
+{
+  position: absolute;
+  left: 0;
+  top: 0;
+  min-width: 80%;
+  min-height: 100%;
+
+  border-radius: 10px;
+  -o-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
 }
