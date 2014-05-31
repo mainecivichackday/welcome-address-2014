@@ -3,6 +3,10 @@
 .slides > article
 {
   background-color: black;
+  width: 1000px;
+  height: 765px;
+  margin-left: -507px;
+  margin-top: -388px;
 }
 
 h1
@@ -32,14 +36,19 @@ h3
   color: #EAFF00;
 }
 
+.join h1
+{
+  color: #0BFF03;
+}
+
 .full-image
 {
   position: absolute;
   left: 0;
   top: 0;
-  min-width: 80%;
+  min-width: 87%;
   min-height: 100%;
-
+  left: 55px;
   border-radius: 10px;
   -o-border-radius: 10px;
   -moz-border-radius: 10px;

@@ -22,6 +22,10 @@ COMMUNITY
 OPEN SOURCE 
 ===========
 
+===========
+NATIONAL
+===========
+
 .. rst-class:: local
 =====
 LOCAL 
@@ -33,21 +37,31 @@ CHILD HUNGER
 ============
 
 .. rst-class:: local
-==============
-VOLUNTEER COORDINATION
-==============
-
-.. rst-class:: local
 ===========
 SECTION 8 HOUSING
 ===========
 
 .. rst-class:: local
-====
+========
 CLEAN ELECTIONS
-====
+========
+
+.. rst-class:: local
+========
+MARQUE & INTERACTIVE ART
+========
+
+.. rst-class:: local
+==============
+VOLUNTEER COORDINATION
+==============
 
 .. rst-class:: pitches
 ====
 PITCHES
+====
+
+.. rst-class:: join
+====
+JOIN FORCES!
 ====
