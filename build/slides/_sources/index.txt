@@ -10,77 +10,98 @@ Maine Civic Hack Day 2014
 .. figure:: /_static/MCHD_2014.png
    :class: full-image
 
-=======
-SERVICE
-=======
+==========================
+SERVICE THROUGH TECHNOLOGY
+==========================
 
-=========
-COMMUNITY
-=========
+=====================
+OPEN SOURCE COMMUNITY 
+=====================
 
-===========
-OPEN SOURCE 
-===========
-
-===========
-NATIONAL
-===========
+=============================
+NATIONAL DAY OF CIVIC HACKING
+=============================
 
 .. rst-class:: local
+
 =====
-LOCAL 
+DEMOS 
 =====
 
-.. rst-class:: local
+.. rst-class:: pitches
+
 ============
 CHILD HUNGER
 ============
 
-.. rst-class:: local
-===========
-ADOPT A GARDEN
-===========
+.. rst-class:: pitches
 
-.. rst-class:: local
-===========
-NOISE MAPPING
-===========
-
-.. rst-class:: local
-===========
-NOISE MAPPING
-===========
-
-.. figure:: /_static/Noise.png
-   :class: full-image
-
-
-.. rst-class:: local
-===========
-SECTION 8 HOUSING
-===========
-
-.. rst-class:: local
-========
-CLEAN ELECTIONS
-========
-
-.. rst-class:: local
-========
-MARQUE & INTERACTIVE ART
-========
-
-.. rst-class:: local
 ==============
-VOLUNTEER COORDINATION
+SEGWAY ROBOT 2
 ==============
 
 .. rst-class:: pitches
-====
-PITCHES
-====
+
+==============
+ADOPT A GARDEN
+==============
+
+.. rst-class:: pitches
+
+======================
+VOLUNTEER COORDINATION
+======================
+
+.. rst-class:: pitches
+
+==================
+HOME GROWN CLUSTER
+==================
+
+.. rst-class:: pitches
+
+================
+OPEN PROSTHETICS
+================
+
+.. rst-class:: pitches
+
+=============
+NOISE MAPPING
+=============
+
+.. rst-class:: pitches
+
+=============
+PLOW NOW
+=============
+
+.. rst-class:: pitches
+
+=============
+BITCOIN DRONE
+=============
+
+.. rst-class:: pitches
+
+===============
+MUSEUM PROJECTS
+===============
+
+.. rst-class:: pitches
+
+========================
+MARQUE & INTERACTIVE ART
+========================
 
 .. rst-class:: join
-====
-JOIN FORCES!
-====
+
+=================
+WHAT'S NEXT?
+=================
+
+.. rst-class:: join
+
+=================
+SEE YOU NEXT YEAR
+=================
